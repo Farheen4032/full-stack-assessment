@@ -1,0 +1,12 @@
+---
+
+### 3. Push to GitHub
+Open terminal inside the folder and run:
+
+```bash
+git init
+git add .
+git commit -m "Assessment submission"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/fullstack-assessment.git
+git push -u origin main
